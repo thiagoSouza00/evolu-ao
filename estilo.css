@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    font-family: 'chilanka';
+    background-image: url(./img/backgroundImg.jpg);
+    text-align: center;
+    margin-top: 20%;
+}
+input {
+    border-radius: 20px;
+}
+#data {
+    margin-right: 60px;
+}
+a {
+    color: black;
+    font-size: 18px;
+    transition: all 0.30s linear
+}
+a:hover {
+    color: red;
+}
+
+
+
+
+
+
+
